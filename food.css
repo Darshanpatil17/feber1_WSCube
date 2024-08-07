@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar1{
+    height: 40px;
+    background-color: black;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
+.navbar1 p{
+    font-weight: 800;
+    margin-left: 300px;
+}
+.navbar1 a{
+    font-weight: 800;
+    margin-left: 450px;
+}
+.navbar2{
+    height: 60px;
+    background-color:rgb(247, 248, 249);
+    display: flex;
+    display: flex;
+    color: gray;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.logo{
+    margin-left: 50px;
+    display: flex;
+    color: gray;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.searchlogo{
+    display: flex;
+    align-items: center;
+    color: black;
+    
+}
+
+
+.img1{
+    background-image: url(img1.webp);
+    background-size: cover;
+    height: 280px;
+}
+.name1{
+    height: 50px;
+    background-color:rgb(253, 248, 248);
+    font-size:xx-large;
+    color: black;
+    text-align: center;
+    align-items: center;
+   
+}
+.name2{
+    height: 50px;
+    background-color:rgb(253, 248, 248);
+    display: flex;
+    color: black;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    justify-content:space-evenly;
+    font-size:large;
+}
+.shopsection{
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+.box{
+    height: 450px;
+    width: 250px;
+    background-color: rgb(250, 251, 251);
+}
+.name{
+    margin-top: 40px;
+}
+.viewall{
+    height: 100px;
+    background-color:white;
+    color: black;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-top: 2PX solid gray;
+    border-bottom: 2PX solid gray;
+
+}
+.img2{
+    background-image: url(img2.webp);
+    background-size: cover;
+    
+    height: 500px;
+
+}
+.air{
+    height: 100px;
+    background-color:white;
+    color: black;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-top: 2PX solid gray;
+    border-bottom: 2PX solid gray;
+
+}
+.shopsection2{
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+.MixerGrinder{
+    height: 100px;
+    background-color:white;
+    color: black;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-top: 2PX solid gray;
+    border-bottom: 2PX solid gray;
+
+}
+.shopsection3{
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+.img3{
+    background-image: url(img3.webp);
+    background-size: cover;
+    margin-top: 30px;
+    
+    height: 500px;
+
+}
+.MixerGrinder1{
+    height: 60px;
+    background-color:white;
+    color: black;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+.costomersection{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.box1{
+    height: 355px;
+    width: 325px;
+    background-color:#F7F6F0;
+    text-align: center;
+    
+}
+.info{
+    align-items: center;
+    text-align: center;
+    margin-top: 30px;
+}
+.info p{
+    margin-top: 30px;
+}
+.info h2{
+    margin-top: 20px;
+    color: #4dac4c; ;
+}
+.footerinfo1{
+    background-color:#56575f ;
+    color: #fefefe;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    
+}
+ul{
+    margin-top: 40px;
+}
+.footerinfo1 a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color: #fffdfd;
+}
+.footerinfo1 p{
+    font-size: 16px;
+    font-weight: 700;
+}
+.go{
+    height: 45px;
+    width: 40px;
+    color: #F7F6F0;
+    text-align: center;
+    background-color: #b1bab9;
+}
+.footer2{
+    background-color:#56575f ;
+    color: #fefefe;
+    height: 200px;
+}
+
+
+.footer2 p{
+    margin-left: 100px;
+   
+
+}
